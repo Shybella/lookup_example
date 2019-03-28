@@ -1,0 +1,11 @@
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\bin\Debug\testlookup.exe.config
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\bin\Debug\testlookup.exe
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\bin\Debug\testlookup.pdb
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.csprojAssemblyReference.cache
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.Form1.resources
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.Properties.Resources.resources
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.csproj.GenerateResource.cache
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.csproj.CoreCompileInputs.cache
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.csproj.CopyComplete
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.exe
+C:\Users\Juzzi-PC\source\repos\testlookup\testlookup\obj\Debug\testlookup.pdb
